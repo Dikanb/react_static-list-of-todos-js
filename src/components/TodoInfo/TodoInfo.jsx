@@ -1,3 +1,4 @@
+import React from 'react';
 import './TodoInfo.scss';
 import { UserInfo } from '../UserInfo';
 
